@@ -1,1 +1,1 @@
-crud reactdjango
+crud client-react server-django
